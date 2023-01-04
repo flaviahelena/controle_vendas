@@ -1,0 +1,43 @@
+C:\repos\Controle de Vendas\Projeto Controle Vendas\obj\Debug\Projeto Controle Vendas.csproj.AssemblyReference.cache
+C:\repos\Controle de Vendas\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.frmClientes.resources
+C:\repos\Controle de Vendas\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.Properties.Resources.resources
+C:\repos\Controle de Vendas\Projeto Controle Vendas\obj\Debug\Projeto Controle Vendas.csproj.GenerateResource.cache
+C:\repos\Controle de Vendas\Projeto Controle Vendas\obj\Debug\Projeto Controle Vendas.csproj.CoreCompileInputs.cache
+C:\repos\Controle de Vendas\Projeto Controle Vendas\bin\Debug\Projeto Controle Vendas.exe.config
+C:\repos\Controle de Vendas\Projeto Controle Vendas\bin\Debug\Projeto Controle Vendas.exe
+C:\repos\Controle de Vendas\Projeto Controle Vendas\bin\Debug\Projeto Controle Vendas.pdb
+C:\repos\Controle de Vendas\Projeto Controle Vendas\bin\Debug\BouncyCastle.Crypto.dll
+C:\repos\Controle de Vendas\Projeto Controle Vendas\bin\Debug\Google.Protobuf.dll
+C:\repos\Controle de Vendas\Projeto Controle Vendas\bin\Debug\K4os.Compression.LZ4.dll
+C:\repos\Controle de Vendas\Projeto Controle Vendas\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\repos\Controle de Vendas\Projeto Controle Vendas\bin\Debug\K4os.Hash.xxHash.dll
+C:\repos\Controle de Vendas\Projeto Controle Vendas\bin\Debug\MySql.Data.dll
+C:\repos\Controle de Vendas\Projeto Controle Vendas\bin\Debug\System.Buffers.dll
+C:\repos\Controle de Vendas\Projeto Controle Vendas\bin\Debug\System.Memory.dll
+C:\repos\Controle de Vendas\Projeto Controle Vendas\bin\Debug\System.Numerics.Vectors.dll
+C:\repos\Controle de Vendas\Projeto Controle Vendas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\repos\Controle de Vendas\Projeto Controle Vendas\bin\Debug\ZstdNet.dll
+C:\repos\Controle de Vendas\Projeto Controle Vendas\bin\Debug\BouncyCastle.Crypto.xml
+C:\repos\Controle de Vendas\Projeto Controle Vendas\bin\Debug\Google.Protobuf.pdb
+C:\repos\Controle de Vendas\Projeto Controle Vendas\bin\Debug\Google.Protobuf.xml
+C:\repos\Controle de Vendas\Projeto Controle Vendas\bin\Debug\K4os.Compression.LZ4.xml
+C:\repos\Controle de Vendas\Projeto Controle Vendas\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\repos\Controle de Vendas\Projeto Controle Vendas\bin\Debug\K4os.Hash.xxHash.xml
+C:\repos\Controle de Vendas\Projeto Controle Vendas\bin\Debug\MySql.Data.xml
+C:\repos\Controle de Vendas\Projeto Controle Vendas\bin\Debug\System.Buffers.xml
+C:\repos\Controle de Vendas\Projeto Controle Vendas\bin\Debug\System.Memory.xml
+C:\repos\Controle de Vendas\Projeto Controle Vendas\bin\Debug\System.Numerics.Vectors.xml
+C:\repos\Controle de Vendas\Projeto Controle Vendas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\repos\Controle de Vendas\Projeto Controle Vendas\obj\Debug\Projeto Controle Vendas.csproj.CopyComplete
+C:\repos\Controle de Vendas\Projeto Controle Vendas\obj\Debug\Projeto Controle Vendas.exe
+C:\repos\Controle de Vendas\Projeto Controle Vendas\obj\Debug\Projeto Controle Vendas.pdb
+C:\repos\Controle de Vendas\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.frmFuncionarios.resources
+C:\repos\Controle de Vendas\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.frmFornecedor.resources
+C:\repos\Controle de Vendas\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.frmProdutos.resources
+C:\repos\Controle de Vendas\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.frmVendas.resources
+C:\repos\Controle de Vendas\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.frmPagamentos.resources
+C:\repos\Controle de Vendas\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.frmHistorico.resources
+C:\repos\Controle de Vendas\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.frmDetalhes.resources
+C:\repos\Controle de Vendas\Projeto Controle Vendas\obj\Debug\Projeto Controle Vendas.csproj.SuggestedBindingRedirects.cache
+C:\repos\Controle de Vendas\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.frmLogin.resources
+C:\repos\Controle de Vendas\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.frmMenu.resources
